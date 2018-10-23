@@ -1,0 +1,1 @@
+; Frame data; Header Information:dtable0: dc.b $01 dc.b $48,$C8,$10dtable1: dc.b $01 dc.b $48,$C8,$30dtable2: dc.b $01 dc.b $48,$C8,$28

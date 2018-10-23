@@ -1,0 +1,1 @@
+#   File:       bob.make#   Target:     bob#   Sources:    Main.a#   Created:    Wednesday, July 31, 1991 10:19:10OBJECTS = Main.a.obob ÄÄ bob.make {OBJECTS}	Main.a.o Ä bob.make Main.a	 xp3old  Main.a
